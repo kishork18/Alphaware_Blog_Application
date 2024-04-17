@@ -14,8 +14,8 @@ This repository contains the controller classes for a Blog Application implement
 - Manages blog post categories.
 - Endpoints:
   - `POST /api/category/createcategory`: Create a new category (Admin only).
-  - `GET /api/category/findallcategory`: Get all categories.
-  - `GET /api/category/findbyname`: Find a category by name.
+  - `GET /api/category/findallcategory`: Get all categories (Admin only).
+  - `GET /api/category/findbyname`: Find a category by name (Admin only).
   - `PUT /api/category/update`: Update a category (Admin only).
   - `DELETE /api/category/delete`: Delete a category (Admin only).
 
@@ -41,8 +41,8 @@ This repository contains the controller classes for a Blog Application implement
 - Endpoints:
   - `PUT /api/user/update`: Update user details (Admin or User).
   - `GET /api/user/getAll`: Get all users (Admin only).
-  - `GET /api/user/findbyemail`: Find a user by email.
-  - `DELETE /api/user/delete`: Delete a user (Admin only).
+  - `GET /api/user/findbyemail`: Find a user by email (Admin only).
+  - `DELETE /api/user/delete`: Delete a user .
 
 ## Role-Based Authentication
 - **Admin**: Has access to all endpoints.
