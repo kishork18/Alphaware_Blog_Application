@@ -45,7 +45,9 @@ This repository contains the controller classes for a Blog Application implement
   - `DELETE /api/user/delete`: Delete a user .
 
 ## Role-Based Authentication
-- **Admin**: Has access to all endpoints.
+- **Admin**: Has access to all endpoints. please find the admin credentials bellow for testing.
+- **email**:`kishor@gmail.com`
+- **password**:`kishor123`
 - **User**: Limited access, can perform certain actions like updating their own profile.
 - Authentication is implemented using JSON Web Tokens (JWT).
 
