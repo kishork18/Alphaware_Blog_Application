@@ -55,4 +55,4 @@ This repository contains the controller classes for a Blog Application implement
 ![Screenshot (177)](https://github.com/kishork18/Alphaware_Blog_Application/assets/119414124/2e43e328-2fd6-4184-867e-42d1fc03e8ba)
 
 ## Deployment
-The application is deployed and accessible at ![here](https://alphawareblogapplication-production-a674.up.railway.app/swagger-ui/index.html#/post-controller/getAllPostHandler).
+The application is deployed and accessible at [here](https://alphawareblogapplication-production-a674.up.railway.app/swagger-ui/index.html#/post-controller/getAllPostHandler).
