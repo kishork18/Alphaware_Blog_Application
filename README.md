@@ -61,3 +61,6 @@ This repository contains the controller classes for a Blog Application implement
 
 ## Deployment
 The application is deployed and accessible at [here](https://alphawareblogapplication-production-a674.up.railway.app/swagger-ui/index.html#/post-controller/getAllPostHandler).
+
+## Video Explaination
+For detail explaination please [click here](https://drive.google.com/file/d/12dtJ0_NQnxbqEHHxhi-wEGLuK1Lxcmy0/view?usp=sharing).
